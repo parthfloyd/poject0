@@ -1,0 +1,17 @@
+.fancyext {
+  font-family: sans-serif;
+  border: 4px dotted red; }
+
+.fancyext {
+  background-color: lightpink; }
+
+div p {
+  border: 4px solid black; }
+
+#first {
+  color: lightpink; }
+
+#second {
+  color: lightblue; }
+
+/*# sourceMappingURL=style.css.map */
